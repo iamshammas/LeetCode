@@ -17,6 +17,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/iamshammas/LeetCode/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/iamshammas/LeetCode/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
 | [0724-find-pivot-index](https://github.com/iamshammas/LeetCode/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/iamshammas/LeetCode/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
 ## Prefix Sum
