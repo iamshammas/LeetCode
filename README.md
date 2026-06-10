@@ -4,6 +4,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/iamshammas/LeetCode/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0709-to-lower-case](https://github.com/iamshammas/LeetCode/tree/main/LeetCode/Easy/0709-to-lower-case/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -32,6 +33,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/iamshammas/LeetCode/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/iamshammas/LeetCode/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
